@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <string name="back_button">Back</string>
+    <string name="login">Login: </string>
+    <string name="url">Url: </string>
+    <string name="user_type">Tipo: </string>
+    <string name="admin">Administrador do site: </string>
+    <string name="company">Empresa: </string>
+    <string name="location">Localização: </string>
+    <string name="followers">Seguidores: </string>
+    <string name="following">Seguindo: </string>
+    <string name="created">Criado: </string>
+    <string name="updated">Atualizado: </string>
+    <string name="repos">Repositórios: </string>
+</resources>
